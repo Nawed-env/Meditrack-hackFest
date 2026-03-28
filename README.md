@@ -127,11 +127,11 @@ npm run dev
 
 ## 🔐 Demo Credentials
 
-| Role    | Email            | Password |
-|---------|------------------|----------|
-| Patient | patient@test.com | test123  |
-| Doctor  | doctor@test.com  | test123  |
-| Admin   | admin@test.com   | test123  |
+| Role    | Email            | Password    |
+|---------|------------------|-------------|
+| Patient | nawed123@gmail.com | nawed123  |
+| Doctor  | nawed123@gmail.com | nawed123  |
+| Admin   | nawed123@gmail.com | nawed123  |
 
 ---
 
