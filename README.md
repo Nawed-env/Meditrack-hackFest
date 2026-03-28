@@ -1,6 +1,6 @@
 # 🏥 MediTrack — Unified Healthcare Record System
 
-> A complete digital healthcare platform that connects Patients, Doctors, and Administrators under one roof — enabling secure medical record management, emergency access, and role-based healthcare workflows.
+> "Imagine you meet with an accident. You're unconscious. The ER doctor has no idea you're allergic to penicillin. No idea you're diabetic. No idea what medications you're on. This happens every single day in India because healthcare records are still paper-based, scattered across hospitals, or lost entirely. MediTrack is our answer to this."
 
 ---
 
