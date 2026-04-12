@@ -10,7 +10,9 @@ import org.springframework.web.bind.annotation.*;
 @RequestMapping("/api/emergency")
 public class EmergencyController {
     private final EmergencyCardService emergencyCardService;
-    public EmergencyController(EmergencyCardService emergencyCardService) { this.emergencyCardService = emergencyCardService; }
+    public EmergencyController(EmergencyCardService emergencyCardService) {
+        this.emergencyCardService = emergencyCardService;
+    }
 
     @GetMapping("/view/{qrToken}")
     public ResponseEntity<ApiResponse<?>> viewEmergencyCard(@PathVariable String qrToken){ 
